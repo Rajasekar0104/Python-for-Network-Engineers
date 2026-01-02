@@ -18,6 +18,17 @@ Introduce API-driven and model-based networking concepts
 
 Python 3.x
 
+
+**🧰 Topics Covered**
+**Section 1 - Variables**
+- Introduction to Variables  
+- Naming Variables  
+- Python Data Types  
+- Working with Mutable Data Types  
+- Working with Immutable Data Types  
+
+
+
 git clone https://github.com/Rajasekar0104/Python-for-Network-Engineers.git
 cd python-for-network-engineers
 
