@@ -1,2 +1,26 @@
 # Python-for-Network-Engineers
-A practical, hands-on Python repository designed specifically for Network Engineers. This repo focuses on using Python to automate, manage, monitor, and troubleshoot networks across vendors and platforms.   The goal is simple: help network engineers move from manual CLI-driven operations to scalable, and reliable automation using Python.
+Python for Network Engineers is a hands-on, practical repository aimed at helping network engineers adopt Python for real-world networking tasks such as automation, monitoring, validation, and troubleshooting.
+
+This repository is written by a network engineer, for network engineers, focusing on practical use cases rather than abstract programming theory.
+
+🎯 Objectives
+
+Bridge the gap between traditional networking and automation
+
+Enable network engineers to confidently use Python in daily operations
+
+Promote scalable, repeatable, and reliable network workflows
+
+Introduce API-driven and model-based networking concepts
+
+
+🧰 Tools & Technologies
+
+Python 3.x
+
+git clone https://github.com/Rajasekar0104/Python-for-Network-Engineers.git
+cd python-for-network-engineers
+
+⚠️ Disclaimer
+
+All scripts are provided for educational purposes only. Always validate and test thoroughly in non-production environments.
