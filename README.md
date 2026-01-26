@@ -25,8 +25,23 @@ Python 3.x
 - Naming Variables  
 - Python Data Types  
 - Working with Mutable Data Types  
-- Working with Immutable Data Types  
+- Working with Immutable Data Types
 
+- 
+## Section 2 – Strings ##
+- Strings Overview
+- Converting Strings
+- The Input Function
+- Concatenation
+- Formatting Strings
+
+## Section 3 – Control Flow##
+### Conditional Statements
+- if statement
+- if–else statement
+- if–elif–else statement
+- Nested if conditions
+- Logical operators (and, or, not)
 
 
 git clone https://github.com/Rajasekar0104/Python-for-Network-Engineers.git
